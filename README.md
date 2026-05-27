@@ -1,6 +1,6 @@
 # Projeto Analítico: Taxas de Homicídio
 
-Este repositório contém o trabalho da faculdade focado na análise, tratamento e projeção de dados sobre homicídios intencionais. O projeto está dividido em duas entregas principais.
+Este repositório contém o trabalho é focado na análise, tratamento e projeção de dados sobre homicídios intencionais. O projeto está dividido em duas entregas principais.
 
 ##  Entregas
 
