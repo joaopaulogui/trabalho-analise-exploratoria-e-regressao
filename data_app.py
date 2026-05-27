@@ -150,7 +150,7 @@ grafico_linha = px.line(
 
 app.layout = html.Div(children=[
     dcc.Dropdown(
-        options=[{'label': pais, 'value': pais} for pais in paises_unicos["Country"]],
+        options=[{'label': pais, 'value': pais} for pais in df_previsoes_finais["Country"].unique()],
         value='Brazil',
         id='dropdown',
     ),
