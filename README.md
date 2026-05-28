@@ -12,6 +12,10 @@ Este repositório contém o trabalho é focado na análise, tratamento e projeç
 * **Arquivo:** `data_app.py`
 * Uma aplicação web construída em Dash. O script realiza a limpeza dos dados, resolve lacunas históricas via interpolação, projeta cenários futuros (2023-2026) usando Regressão Linear e disponibiliza um gráfico interativo filtrável por país.
 
+
+**3. Link do Repositório**
+* **Link: https://github.com/joaopaulogui/trabalho-analise-exploratoria-e-regressao/** 
+* Repositório com todos os arquivos do trabalho.
 ---
 
 ##  Como executar o Data App
@@ -23,7 +27,7 @@ Ideal para testar modificações no código rapidamente. Você precisará instal
 
 Execute o seguinte comando no seu terminal:
 ```bash
-pip install dash plotly pandas scikit-learn
+pip install dash plotly pandas scikit-learn matplotlib
 ```
 
 Em seguida, inicie a aplicação:
